@@ -1,0 +1,28 @@
+body {
+    background-color: #723eff;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: justify;
+    font-family: helvetica;
+    text-transform: lowercase;
+}
+a {
+    color: pink;
+    text-decoration: none;
+}
+p {
+    color:white
+}
+li {
+    color: white
+}
+h2 {
+    color: tomato
+}
+h3 {
+    color:tomato;
+    font-style: italic;
+    letter-spacing: 0px;
+    font-weight: 500px;
+}
+
