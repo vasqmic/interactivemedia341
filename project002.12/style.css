@@ -1,0 +1,15 @@
+body {
+    position: fixed;
+    margin-top: 150px;
+    margin-left: 560px;
+    font-family: Verdana;
+    font-style: oblique;
+    background-color: rgb(96, 61, 250);
+    color: white;
+    font-size: 10px;
+}
+
+#part006 {
+    color: tomato;
+    font-size: 12.25px;
+}
