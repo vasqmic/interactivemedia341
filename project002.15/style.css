@@ -1,0 +1,13 @@
+body {
+    position: static;
+    margin-top:100px;
+    margin-left:550px;
+    font-family:'Courier New', Courier, monospace;
+    max-width: 300px;
+    margin-bottom: 100px;
+    border-style: dotted;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}

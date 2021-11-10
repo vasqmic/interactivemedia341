@@ -1,0 +1,18 @@
+body {
+    transform: rotateX(180deg);
+    max-width: 400px;
+    font-family: Verdana;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 6em auto 19em;
+    background: #fff;
+    color: white;
+    font-size: 12px;
+    position: relative;
+    border-style: dotted;
+    text-align: center;
+    background-color: rgb(96, 61, 250);
+    
+}
