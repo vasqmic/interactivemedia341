@@ -1,0 +1,55 @@
+body {
+    background-color: turquoise;
+    color:tomato;
+}
+
+.header {
+    font-size: 40px;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 300px;
+    font-family: Georgia;
+    color: goldenrod;
+
+}
+
+.line001, .line002, .line003, .line004 {
+    font-family: verdana;
+    font-size: 10px;
+    font-style: oblique;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 300px;
+}
+
+.line005, .line006, .line007, .line008 {
+    font-family: monospace;
+    font-size: 50px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 505px;
+}
+
+.line009, .line0010, .line0011 {
+    font-family: times;
+    font-size: 20px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 450px;
+}
+
+.line0012, .line0013, .line0014, .line0015, .line0016 {
+    font-family: verdana;
+    font-size: 20px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 600px;
+}
+
+.line0017, .line0018, .line0019 {
+    font-family: Franklin Gothic Medium;
+    font-size: 8px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 200px;
+}

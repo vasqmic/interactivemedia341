@@ -1,0 +1,52 @@
+body {
+    max-width: 400px;
+    font-family: Verdana;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 6em auto 19em;
+    position: relative;
+    border-style: solid;
+    border-color: turquoise;
+    border-radius: 10px;
+    text-align: center;
+    background-color: tomato;
+    color: white;
+}
+
+.type {
+    font-size: 10px;
+    line-height: 20px;
+}
+
+.header {
+    font-size: 10px;
+    font-style: bold, italic; 
+    padding-bottom: 10px;
+    font-weight: bolder;
+}
+
+.button {
+    background-color: #000;
+    color: white;
+    padding: 16px;
+    font-size: 10px;
+    border: none;
+    min-width: 342px;
+    display: inline-block;
+    text-align: center;
+ }
+
+.line003, .line007, .line009 {
+    font-style: oblique;
+}
+
+.line005 {
+    font-size: 20px;
+}
+
+.line0010, .line0018 {
+    font-size: 5px;
+    font-weight: bolder;
+}

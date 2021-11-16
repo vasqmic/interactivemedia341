@@ -2,10 +2,8 @@
 body {
     font-family: Verdana;
     font-style: oblique;
-    background-color: rgb(96, 61, 250);
-    color: white;
-}
-
-#part006 {
-    color: tomato;
+    position: relative;
+    margin-left: 500px;
+    margin-top: 75px;
+    font-size: 50px;
 }

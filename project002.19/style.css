@@ -1,0 +1,51 @@
+body {
+ background-color: tomato;
+ margin-top: 5px;
+
+}
+
+.header {
+    color: white;
+    font-size: 130px;
+    font-family: verdana;
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+.type {
+    color: white;
+    font-size: 10px;
+    font-family: verdana;
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+.line001, .line002, .line003, .line004 {
+    position: relative;
+    margin-left: 5px;
+}
+
+.line005, .line006, .line007, .line008 {
+    position: relative;
+    margin-left: 255px;
+}
+
+.line009, .line0010, .line0011, .line0012 {
+    position: relative;
+    margin-left: 505px;
+}
+
+.line0013, .line0014, .line0015, .line0016 {
+    position: relative;
+    margin-left: 755px;
+}
+
+.line0017, .line0018 {
+    position: relative;
+    margin-left: 1005px;
+}
+
+.line0019 {
+    position: relative;
+    margin-left: 1255px;
+}
