@@ -1,0 +1,137 @@
+body {
+    text-align: center;
+    position: relative;
+    font-size: 8px;
+    font-family: verdana;
+    text-overflow: hidden;
+}
+
+.header {
+    margin-top: 20px;
+}
+
+.line001, .line002, .line003, .line004, .line005, .line006, .line007, .line008, .line009, .line0010, .line0011, .line0012, .line0013, .line0014, .line0015, .line0016, .line0017, .line0018, .line0019 {
+    width: 100px;
+    height: 10px;
+    background-color: tomato;
+    position: relative;
+    margin-left: 45.75%;
+    margin-top: 20px;
+    transition: 5s;
+    padding: 10px;
+    opacity: 0;
+}
+
+.line001:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line002:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line003:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line004:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line005:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line006:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line007:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line008:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line009:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line0010:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line0011:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line0012:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line0013:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line0014:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line0015:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line0016:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line0017:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line0018:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
+
+.line0019:hover {
+    width: 100px;
+    height: 25px;
+    opacity: 100%;
+}
