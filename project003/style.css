@@ -1,0 +1,156 @@
+body {
+    background: rgb(63,94,251);
+    background: linear-gradient(67deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+#title {
+    font-family: verdana;
+    font-size: 14px;
+    font-style: oblique;
+    font-weight: bold;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+#button1 {
+    font-style: bold;
+    width: 75px;
+    height: 20px;
+    font-weight: bold;
+    font-family: verdana;
+    color: rgb(63,94,251);
+    font-size: 8px;
+    position: absolute;
+    top: 80%;
+    left: 47%;
+}
+
+#past {
+    position: absolute;
+    left: 24%;
+    top: 75%;
+    font-weight: bold;
+    font-family: verdana;
+    color: white;
+    font-size: 8px;
+    text-align: center;
+}
+
+#present {
+    position: absolute;
+    left: 48.25%;
+    top: 75%;
+    font-weight: bold;
+    font-family: verdana;
+    color: white;
+    font-size: 8px;
+    text-align: center;
+}
+
+#future {
+    position: absolute;
+    left: 73.75%;
+    top: 75%;
+    font-weight: bold;
+    font-family: verdana;
+    color: white;
+    font-size: 8px;
+    text-align: center;
+}
+
+#card1 {
+    width: 210px;
+    height: 330px;
+    color: black;
+    border-style: dotted;
+    position: absolute;
+    left: 25%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-color: rgba(243, 243, 243, 0.582);
+    border-radius: 10px;
+}
+
+#card2 {
+    width: 210px;
+    height: 330px;
+    color: black;
+    border-style: dotted;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-color: rgba(243, 243, 243, 0.582);
+    border-radius: 10px;
+}
+
+#card3 {
+    width: 210px;
+    height: 330px;
+    color: black;
+    border-style: dotted;
+    position: absolute;
+    left: 75%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-color: rgba(243, 243, 243, 0.582);
+    border-radius: 10px;
+}
+
+.back1 {
+    width: 179.4px;
+    height: 295.8px;
+    opacity: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    animation-name: floating;
+    animation-duration: 2.75s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+  }
+  
+.back2 {
+    width: 179.4px;
+    height: 295.8px;
+    opacity: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    animation-name: floating;
+    animation-duration: 3.25s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+.back3 {
+    width: 179.4px;
+    height: 295.8px;
+    opacity: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+
+@keyframes floating {
+    0% {
+      transform: translate(0, 0px);
+    }
+    50% {
+      transform: translate(0, 15px);
+    }
+    100% {
+      transform: translate(0, -0px);
+    }
+  }
